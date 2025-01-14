@@ -1,5 +1,1 @@
-print("Hello, mecca")
-
-print("Hello, mocca")
-
-print("Hello, tocca")
+print("Hello panda")
